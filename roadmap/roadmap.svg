@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500pt" height="958pt" viewBox="0.00 0.00 500.00 958.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 954.4)">
+<title>CppAD_Modern_Roadmap_Final</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-954.4 496,-954.4 496,4 -4,4"/>
+<!-- A -->
+<g id="node1" class="node">
+<title>A</title>
+<polygon fill="#3498db" stroke="transparent" points="8,-908.4 8,-946.4 484,-946.4 484,-908.4 8,-908.4"/>
+<polygon fill="none" stroke="#3498db" points="8,-908.4 8,-946.4 484,-946.4 484,-908.4 8,-908.4"/>
+<text text-anchor="start" x="104.824" y="-923.8" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">阶段 1 · 现代 C++ 与数学根基（1-2个月）</text>
+<polygon fill="none" stroke="#3498db" points="8,-870.4 8,-908.4 101,-908.4 101,-870.4 8,-870.4"/>
+<text text-anchor="start" x="25.716" y="-884.8" font-family="Arial" font-size="14.00" fill="#000000">C++ 核心</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="101,-870.4 101,-908.4 484,-908.4 484,-870.4 101,-870.4"/>
+<polygon fill="none" stroke="#3498db" points="101,-870.4 101,-908.4 484,-908.4 484,-870.4 101,-870.4"/>
+<text text-anchor="start" x="111.7628" y="-884.8" font-family="Arial" font-size="14.00" fill="#000000">Modern C++ (17/20/23)，智能指针, RAII, move 语义。</text>
+<polygon fill="none" stroke="#3498db" points="8,-832.4 8,-870.4 101,-870.4 101,-832.4 8,-832.4"/>
+<text text-anchor="start" x="21.9577" y="-846.8" font-family="Arial" font-size="14.00" fill="#000000">并发编程</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="101,-832.4 101,-870.4 484,-870.4 484,-832.4 101,-832.4"/>
+<polygon fill="none" stroke="#3498db" points="101,-832.4 101,-870.4 484,-870.4 484,-832.4 101,-832.4"/>
+<text text-anchor="start" x="175.9409" y="-846.8" font-family="Arial" font-size="14.00" fill="#000000">atomic, thread_pool, lock-free 概念。</text>
+<polygon fill="none" stroke="#3498db" points="8,-794.4 8,-832.4 101,-832.4 101,-794.4 8,-794.4"/>
+<text text-anchor="start" x="18.9827" y="-808.8" font-family="Arial" font-size="14.00" fill="#000000">Eigen 实践</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="101,-794.4 101,-832.4 484,-832.4 484,-794.4 101,-794.4"/>
+<polygon fill="none" stroke="#3498db" points="101,-794.4 101,-832.4 484,-832.4 484,-794.4 101,-794.4"/>
+<text text-anchor="start" x="182.1695" y="-808.8" font-family="Arial" font-size="14.00" fill="#000000">四元数，SE(3)，Geometry 模块。</text>
+<polygon fill="none" stroke="#3498db" points="8,-756.4 8,-794.4 101,-794.4 101,-756.4 8,-756.4"/>
+<text text-anchor="start" x="26.8864" y="-770.8" font-family="Arial" font-size="14.00" fill="#000000">核心数学</text>
+<polygon fill="#f0f8ff" stroke="transparent" points="101,-756.4 101,-794.4 484,-794.4 484,-756.4 101,-756.4"/>
+<polygon fill="none" stroke="#3498db" points="101,-756.4 101,-794.4 484,-794.4 484,-756.4 101,-756.4"/>
+<text text-anchor="start" x="168.5538" y="-770.8" font-family="Arial" font-size="14.00" fill="#000000">李代数，EKF/ESKF，Ceres Solver。</text>
+</g>
+<!-- B -->
+<g id="node2" class="node">
+<title>B</title>
+<polygon fill="#2ecc71" stroke="transparent" points="68,-657.6 68,-695.6 424,-695.6 424,-657.6 68,-657.6"/>
+<polygon fill="none" stroke="#3498db" points="68,-657.6 68,-695.6 424,-695.6 424,-657.6 68,-657.6"/>
+<text text-anchor="start" x="83.3291" y="-673" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">阶段 2 · 高性能工具链与中间件（2-3个月）</text>
+<polygon fill="none" stroke="#3498db" points="68,-619.6 68,-657.6 159,-657.6 159,-619.6 68,-619.6"/>
+<text text-anchor="start" x="78.892" y="-634" font-family="Arial" font-size="14.00" fill="#000000">DDS 通信</text>
+<polygon fill="#f0fff0" stroke="transparent" points="159,-619.6 159,-657.6 424,-657.6 424,-619.6 159,-619.6"/>
+<polygon fill="none" stroke="#3498db" points="159,-619.6 159,-657.6 424,-657.6 424,-619.6 159,-619.6"/>
+<text text-anchor="start" x="193.2389" y="-634" font-family="Arial" font-size="14.00" fill="#000000">Fast-DDS / CycloneDDS 实战。</text>
+<polygon fill="none" stroke="#3498db" points="68,-581.6 68,-619.6 159,-619.6 159,-581.6 68,-581.6"/>
+<text text-anchor="start" x="81.9874" y="-596" font-family="Arial" font-size="14.00" fill="#000000">构建系统</text>
+<polygon fill="#f0fff0" stroke="transparent" points="159,-581.6 159,-619.6 424,-619.6 424,-581.6 159,-581.6"/>
+<polygon fill="none" stroke="#3498db" points="159,-581.6 159,-619.6 424,-619.6 424,-581.6 159,-581.6"/>
+<text text-anchor="start" x="201.2049" y="-596" font-family="Arial" font-size="14.00" fill="#000000">Bazel (Apollo 级) + CMake。</text>
+<polygon fill="none" stroke="#3498db" points="68,-543.6 68,-581.6 159,-581.6 159,-543.6 68,-543.6"/>
+<text text-anchor="start" x="84.7104" y="-558" font-family="Arial" font-size="14.00" fill="#000000">推理加速</text>
+<polygon fill="#f0fff0" stroke="transparent" points="159,-543.6 159,-581.6 424,-581.6 424,-543.6 159,-543.6"/>
+<polygon fill="none" stroke="#3498db" points="159,-543.6 159,-581.6 424,-581.6 424,-543.6 159,-543.6"/>
+<text text-anchor="start" x="169.6461" y="-558" font-family="Arial" font-size="14.00" fill="#000000">TensorRT 插件开发，CUDA/SIMD。</text>
+<polygon fill="none" stroke="#3498db" points="68,-505.6 68,-543.6 159,-543.6 159,-505.6 68,-505.6"/>
+<text text-anchor="start" x="86.0404" y="-520" font-family="Arial" font-size="14.00" fill="#000000">常用工具</text>
+<polygon fill="#f0fff0" stroke="transparent" points="159,-505.6 159,-543.6 424,-543.6 424,-505.6 159,-505.6"/>
+<polygon fill="none" stroke="#3498db" points="159,-505.6 159,-543.6 424,-543.6 424,-505.6 159,-505.6"/>
+<text text-anchor="start" x="173.7663" y="-520" font-family="Arial" font-size="14.00" fill="#000000">PCL，OpenCV，Protobuf，g2o。</text>
+</g>
+<!-- A&#45;&gt;B -->
+<g id="edge1" class="edge">
+<title>A-&gt;B</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M246,-752.2772C246,-738.3948 246,-724.0626 246,-710.0031"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="249.5001,-709.8241 246,-699.8241 242.5001,-709.8241 249.5001,-709.8241"/>
+<text text-anchor="middle" x="278.6816" y="-721.8" font-family="Arial" font-size="14.00" fill="#000000">系统集成</text>
+</g>
+<!-- C -->
+<g id="node3" class="node">
+<title>C</title>
+<polygon fill="#ffc300" stroke="transparent" points="53,-406.8 53,-444.8 440,-444.8 440,-406.8 53,-406.8"/>
+<polygon fill="none" stroke="#3498db" points="53,-406.8 53,-444.8 440,-444.8 440,-406.8 53,-406.8"/>
+<text text-anchor="start" x="111.9362" y="-422.2" font-family="Arial" font-weight="bold" font-size="14.00" fill="#000000">阶段 3 · 核心模块 C++ 实战（3-6个月）</text>
+<polygon fill="none" stroke="#3498db" points="53,-368.8 53,-406.8 150,-406.8 150,-368.8 53,-368.8"/>
+<text text-anchor="start" x="63.7637" y="-383.2" font-family="Arial" font-size="14.00" fill="#000000">感知部署</text>
+<polygon fill="#fffae5" stroke="transparent" points="150,-368.8 150,-406.8 440,-406.8 440,-368.8 150,-368.8"/>
+<polygon fill="none" stroke="#3498db" points="150,-368.8 150,-406.8 440,-406.8 440,-368.8 150,-368.8"/>
+<text text-anchor="start" x="160.9507" y="-383.2" font-family="Arial" font-size="14.00" fill="#000000">CenterPoint, PointPillars TensorRT 优化。</text>
+<polygon fill="none" stroke="#3498db" points="53,-330.8 53,-368.8 150,-368.8 150,-330.8 53,-330.8"/>
+<text text-anchor="start" x="69.216" y="-345.2" font-family="Arial" font-size="14.00" fill="#000000">定位建图</text>
+<polygon fill="#fffae5" stroke="transparent" points="150,-330.8 150,-368.8 440,-368.8 440,-330.8 150,-330.8"/>
+<polygon fill="none" stroke="#3498db" points="150,-330.8 150,-368.8 440,-368.8 440,-330.8 150,-330.8"/>
+<text text-anchor="start" x="192.4584" y="-345.2" font-family="Arial" font-size="14.00" fill="#000000">FAST-LIO, LIO-SAM, NDT 手撕。</text>
+<polygon fill="none" stroke="#3498db" points="53,-292.8 53,-330.8 150,-330.8 150,-292.8 53,-292.8"/>
+<text text-anchor="start" x="70.5054" y="-307.2" font-family="Arial" font-size="14.00" fill="#000000">规划控制</text>
+<polygon fill="#fffae5" stroke="transparent" points="150,-292.8 150,-330.8 440,-330.8 440,-292.8 150,-292.8"/>
+<polygon fill="none" stroke="#3498db" points="150,-292.8 150,-330.8 440,-330.8 440,-292.8 150,-292.8"/>
+<text text-anchor="start" x="199.0706" y="-307.2" font-family="Arial" font-size="14.00" fill="#000000">EM Planner, MPC, Hybrid A*。</text>
+<polygon fill="none" stroke="#3498db" points="53,-254.8 53,-292.8 150,-292.8 150,-254.8 53,-254.8"/>
+<text text-anchor="start" x="70.3794" y="-269.2" font-family="Arial" font-size="14.00" fill="#000000">仿真集成</text>
+<polygon fill="#fffae5" stroke="transparent" points="150,-254.8 150,-292.8 440,-292.8 440,-254.8 150,-254.8"/>
+<polygon fill="none" stroke="#3498db" points="150,-254.8 150,-292.8 440,-292.8 440,-254.8 150,-254.8"/>
+<text text-anchor="start" x="168.1432" y="-269.2" font-family="Arial" font-size="14.00" fill="#000000">CARLA C++ Client + ROS/DDS Bridge。</text>
+</g>
+<!-- B&#45;&gt;C -->
+<g id="edge2" class="edge">
+<title>B-&gt;C</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M246,-501.4772C246,-487.5948 246,-473.2626 246,-459.2031"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="249.5001,-459.0241 246,-449.0241 242.5001,-459.0241 249.5001,-459.0241"/>
+<text text-anchor="middle" x="274.399" y="-471" font-family="Arial" font-size="14.00" fill="#000000">算法实现</text>
+</g>
+<!-- D -->
+<g id="node4" class="node">
+<title>D</title>
+<polygon fill="#e74c3c" stroke="transparent" points="51,-156 51,-194 441,-194 441,-156 51,-156"/>
+<polygon fill="none" stroke="#3498db" points="51,-156 51,-194 441,-194 441,-156 51,-156"/>
+<text text-anchor="start" x="95.9424" y="-171.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">阶段 4 · 工程化落地与求职冲刺（6个月+）</text>
+<polygon fill="none" stroke="#3498db" points="51,-118 51,-156 146,-156 146,-118 51,-118"/>
+<text text-anchor="start" x="67.5054" y="-132.4" font-family="Arial" font-size="14.00" fill="#000000">系统架构</text>
+<polygon fill="#fbefef" stroke="transparent" points="146,-118 146,-156 441,-156 441,-118 146,-118"/>
+<polygon fill="none" stroke="#3498db" points="146,-118 146,-156 441,-156 441,-118 146,-118"/>
+<text text-anchor="start" x="163.7186" y="-132.4" font-family="Arial" font-size="14.00" fill="#000000">Apollo CyberRT / Autoware 系统设计。</text>
+<polygon fill="none" stroke="#3498db" points="51,-80 51,-118 146,-118 146,-80 51,-80"/>
+<text text-anchor="start" x="64.655" y="-94.4" font-family="Arial" font-size="14.00" fill="#000000">功能安全</text>
+<polygon fill="#fbefef" stroke="transparent" points="146,-80 146,-118 441,-118 441,-80 146,-80"/>
+<polygon fill="none" stroke="#3498db" points="146,-80 146,-118 441,-118 441,-80 146,-80"/>
+<text text-anchor="start" x="163.0606" y="-94.4" font-family="Arial" font-size="14.00" fill="#000000">ISO26262, MISRA C++，实时性保障。</text>
+<polygon fill="none" stroke="#3498db" points="51,-42 51,-80 146,-80 146,-42 51,-42"/>
+<text text-anchor="start" x="61.9334" y="-56.4" font-family="Arial" font-size="14.00" fill="#000000">高频考点</text>
+<polygon fill="#fbefef" stroke="transparent" points="146,-42 146,-80 441,-80 441,-42 146,-42"/>
+<polygon fill="none" stroke="#3498db" points="146,-42 146,-80 441,-80 441,-42 146,-42"/>
+<text text-anchor="start" x="156.72" y="-56.4" font-family="Arial" font-size="14.00" fill="#000000">闭环设计 (200Hz)，分布式系统优化。</text>
+<polygon fill="#f39c12" stroke="transparent" points="51,-4 51,-42 441,-42 441,-4 51,-4"/>
+<polygon fill="none" stroke="#3498db" points="51,-4 51,-42 441,-42 441,-4 51,-4"/>
+<text text-anchor="start" x="105.8474" y="-19.4" font-family="Arial" font-weight="bold" font-size="14.00" fill="#ffffff">🏆 最终目标：具备一线 C++ AD 岗位竞争力</text>
+</g>
+<!-- C&#45;&gt;D -->
+<g id="edge3" class="edge">
+<title>C-&gt;D</title>
+<path fill="none" stroke="#3498db" stroke-width="2.5" d="M246,-250.6772C246,-236.7948 246,-222.4626 246,-208.4031"/>
+<polygon fill="#3498db" stroke="#3498db" stroke-width="2.5" points="249.5001,-208.2241 246,-198.2241 242.5001,-208.2241 249.5001,-208.2241"/>
+<text text-anchor="middle" x="286.1863" y="-220.2" font-family="Arial" font-size="14.00" fill="#000000">工程部署</text>
+</g>
+</g>
+</svg>
