@@ -6,7 +6,7 @@
 - [✨ 核心内容讲解](#-核心内容讲解)
 - [📚 学习资源（课程/书籍/论文）](#-学习资源)
 - [📊 数据集](#-数据集)
-- [🛠️ 工具链](#-工具链)
+- [🛠️ 工具链](#%EF%B8%8F-工具链)
 - [🎓 面试八股文](#-面试八股文)
 - [💼 招聘信息（2025最新）](#-招聘信息2025最新)
 - [🤝 社区与贡献](#-社区与贡献)
@@ -229,5 +229,74 @@
 
 - [Adverse Weather Dataset](https://light.princeton.edu/datasets/automated_driving_dataset/)  
   恶劣天气多模态数据集，含雪雨雾场景下的12K真实样本与1.5K控制样本
+
+</details>
+
+## 🛠️ 工具链
+<details>
+<summary>点击展开</summary>
+
+- [Apollo](https://github.com/ApolloAuto/apollo)  
+  百度开源的完整L4自动驾驶平台，包含感知、规划、控制、仿真全流程
+
+- [Autoware](https://autoware.org/)  
+  全球最大开源自动驾驶软件栈，基于ROS 2，覆盖城市道路全场景
+
+- [OpenPilot](https://github.com/commaai/openpilot)  
+  comma.ai开源端到端驾驶系统，已在数十万辆车上真实运行
+
+- [ROS 2](https://docs.ros.org/en/rolling/Installation.html)  
+  机器人与自动驾驶领域最广泛使用的中间件，支持分布式实时系统
+
+- [CyberRT](https://github.com/ApolloAuto/apollo/tree/master/cyber)  
+  Apollo自研的高性能数据通信与调度框架
+
+- [CARLA](https://carla.org/)  
+  基于Unreal Engine的高保真自动驾驶仿真器，支持多传感器与交通流
+
+- [LGSVL Simulator / SVL](https://www.svlsimulator.com/)  
+  原LG开源仿真器，支持Apollo、Autoware等多平台闭环仿真
+
+- [NVIDIA DRIVE Sim](https://developer.nvidia.com/drive/drive-sim)  
+  NVIDIA基于Omniverse的企业级自动驾驶仿真平台
+
+- [DeepStream SDK](https://developer.nvidia.com/deepstream-sdk)  
+  NVIDIA智能视频分析与多传感器融合流水线框架
+
+- [TensorRT](https://developer.nvidia.com/tensorrt)  
+  NVIDIA高性能深度学习推理引擎，专为嵌入式与车载优化
+
+- [ONNX Runtime](https://onnxruntime.ai/)  
+  微软开源跨平台推理引擎，支持多种硬件加速
+
+- [Triton Inference Server](https://github.com/triton-inference-server/server)  
+  NVIDIA开源高并发模型部署与推理服务框架
+
+- [Bazel](https://bazel.build/)  
+  Google开发的大规模构建与测试工具，Apollo默认构建系统
+
+- [Colcon](https://colcon.readthedocs.io/)  
+  ROS 2官方推荐的元构建工具
+
+- [Fast-DDS](https://www.eprosima.com/)  
+  eProsima高性能DDS实现，ROS 2默认通信中间件
+
+- [Cyclone DDS](https://cyclonedds.io/)  
+  Eclipse基金会高性能DDS实现，广泛用于汽车与机器人领域
+
+- [Zenoh](https://zenoh.io/)  
+  新一代超低延迟边缘通信协议，已在多家自动驾驶公司验证
+
+- [Foxglove Studio](https://foxglove.dev/)  
+  最流行的自动驾驶与机器人数据可视化与分析工具
+
+- [Mcap](https://mcap.dev/)  
+  下一代跨平台录制文件格式，取代rosbag
+
+- [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2)  
+  开源高精地图格式与路由库，Autoware默认地图方案
+
+- [AUTOSAR Adaptive](https://www.autosar.org/standards/adaptive-platform/)  
+  新一代车载自适应软件平台标准，支持动态更新与服务化架构
 
 </details>
