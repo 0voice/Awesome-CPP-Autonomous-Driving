@@ -74,7 +74,7 @@
     - [场景库与交通流](core_content/README.md#场景库与交通流)
 
 - [中间件与通信](core_content/README.md#中间件与通信)
-    - [ROS/ROS 2 架构](core_content/README.md#rosros-2-架构)
+    - [ROS/ROS2 架构](core_content/README.md#rosros-2-架构)
     - [Fast-DDS / CycloneDDS](core_content/README.md#fast-dds--cyclonedds)
     - [some/IP + vsomeip](core_content/README.md#someip--vsomeip)
     - [Protobuf 序列化](core_content/README.md#protobuf-序列化)
@@ -154,5 +154,80 @@
 | [DriveAdapter](https://arxiv.org/pdf/2309.01243.pdf)                                                              | Xiaosong Jia et al.                           | 2023 | ICCV      | 感知-规划解耦新范式，C++模块化最佳实践              |
 | [OpenOccupancy: A Large Scale Benchmark](https://arxiv.org/pdf/2303.03991.pdf)                                     | Xiaofeng Wang, Zheng Zhu et al.               | 2023 | ICCV      | 最大开源Occupancy数据集，官方C++基准代码            |
 
+
+</details>
+
+## 📊 数据集
+<details>
+<summary>点击展开</summary>
+
+- [KITTI](https://www.cvlibs.net/datasets/kitti/raw_data.php)  
+经典的 3D 感知基准，用于 3D 目标检测、跟踪和里程计
+
+- [nuScenes](https://www.nuscenes.org/download)  
+多模态大规模数据集，专注于全场景 3D 检测与轨迹预测
+
+- [Waymo Open Dataset](https://waymo.com/open/download)  
+业界标注最精细，适用于高精度感知和 LiDAR 处理
+
+- [Argoverse 2](https://www.argoverse.org/av2.html)  
+带高清矢量地图，专注轨迹预测、地图融合和驾驶行为分析
+
+- [A2D2 (Audi)](https://www.a2d2.audi/en/download/)  
+包含 CAN 总线数据，用于语义分割和多模态 3D 标注
+
+- [comma2k19](https://github.com/commaai/comma2k19)  
+单目摄像头+真实驾驶CAN数据，最适合端到端驾驶模型
+
+- [CARLA Generated Data](https://carla.readthedocs.io/en/latest/download/)  
+  开源仿真器，可自定义天气、地图，无限生成完美同步的多传感器数据
+  
+- [ApolloScape](https://apolloscape.auto/)  
+  街景图像、LiDAR点云、轨迹数据，覆盖城市交通全方面感知与导航
+
+- [Cityscapes](https://www.cityscapes-dataset.com/)  
+  城市街景视频序列，精细像素级语义分割与实例分割标注
+
+- [SemanticKITTI](https://www.semantic-kitti.org/)  
+  KITTI扩展版，含LiDAR点云的语义分割标注，专注3D场景理解
+
+- [WoodScape](https://woodscape.valeo.com/)  
+  鱼眼摄像头图像，环视视图语义分割，适用于停车与低速场景
+
+- [Zenseact Open Dataset (ZOD)](https://zod.zenseact.com/)  
+  多模态欧洲城市驾驶数据，含帧序列、驱动记录与雷达点云
+
+- [NVIDIA Physical AI Autonomous Vehicles](https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles)  
+  多传感器全球驾驶数据，覆盖25国2500+城市，专注端到端物理AI
+
+- [MAN TruckScenes](https://brandportal.man/d/QSf8mPdU5Hgj)  
+  多模态卡车驾驶数据集，覆盖多样条件如恶劣天气与多车道
+
+- [Para-Lane](https://nizqleo.github.io/paralane-dataset/)  
+  多车道实时世界数据集，设计用于新型视图合成与端到端驾驶评估
+
+- [UniOcc](https://huggingface.co/datasets/tasl-lab/uniocc)  
+  占用网格预测与体素流数据集，支持跨域泛化与未来占用预测
+
+- [InterHub](https://www.nature.com/articles/s41597-025-05344-7)  
+  密集多代理交互轨迹数据，源自大规模自然驾驶记录，专注驾驶交互研究
+
+- [rounD](https://arxiv.org/html/2401.01454v1)  
+  圆环路口路用户轨迹数据集，含6小时视频和13K+用户记录，支持行为预测
+
+- [WOMD-Reasoning](https://waymo.com/open/download)  
+  基于Waymo Open Motion Dataset的语言标注，专注交互意图描述与推理
+
+- [V2V-QA](https://eddyhkchiu.github.io/v2vllm.github.io/)  
+  车对车问答数据集，支持端到端协作自动驾驶的LLM方法开发与评估
+
+- [DriveBench](https://drive-bench.github.io/)  
+  视觉语言模型可靠性基准数据集，含19K帧和20K问答对，覆盖多种驾驶任务
+
+- [FutureSightDrive](https://github.com/MIV-XJTU/FSDrive)  
+  时空链式思考数据集，支持视觉驱动的自动驾驶预测与规划
+
+- [Adverse Weather Dataset](https://light.princeton.edu/datasets/automated_driving_dataset/)  
+  恶劣天气多模态数据集，含雪雨雾场景下的12K真实样本与1.5K控制样本
 
 </details>
