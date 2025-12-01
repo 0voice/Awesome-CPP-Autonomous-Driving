@@ -4,7 +4,8 @@
 ## 📖 目录
 - [🗺️ 学习路线图](#%EF%B8%8F-学习路线图)
 - [✨ 核心内容讲解](#-核心内容讲解)
-- [📚 学习资源（视频/书籍/论文/课程）](#-学习资源)
+- [📚 学习资源（课程/书籍/论文）](#-学习资源)
+- [📊 数据集](#-数据集)
 - [🛠️ 工具链](#-工具链)
 - [🎓 面试八股文](#-面试八股文)
 - [💼 招聘信息（2025最新）](#-招聘信息2025最新)
@@ -82,9 +83,30 @@
 ## 📚 学习资源
 <details>
 <summary>点击展开</summary>
+
+### 课程
+
+| 课程名称                                                                 | 简介                                                                 |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Self-Driving Cars Specialization                                          | 全球最完整的自动驾驶四门套课，感知+定位+规划+控制全栈                |
+| Introduction to Self-Driving Cars                                          | 自动驾驶入门第一课，含CARLA模拟器项目                                |
+| Motion Planning for Self-Driving Cars                                      | 规划方向天花板，A*、Hybrid A*、Lattice、MPC全覆盖                    |
+| Visual Perception for Self-Driving Cars                                    | 车道线、信号灯、3D目标检测完整流程                                  |
+| State Estimation and Localization for Self-Driving Cars                    | 卡尔曼滤波、粒子滤波、SLAM入门，矩阵作业天然适合C++实现             |
+| Self-Driving Cars with Duckietown                                          | 苏黎世联邦理工实车小车课，ROS2 + C++全程实战，软硬件结合             |
+| Multi-Object Tracking for Automotive Systems                              | 查尔姆斯大学多目标跟踪课，专为汽车系统设计，含SORT/Kalman融合        |
+| Autonomous Mobile Robots                                                  | ETH Zurich移动机器人课，路径规划/避障算法，适用于自驾车定位          |
+| Self-Driving Car Engineer Nanodegree                                      | Udacity自驾车工程师全栈，感知到规划，C++部署项目                     |
+| Sensor Fusion Engineer Nanodegree                                         | Udacity传感器融合专项，LiDAR+Radar+Camera融合，C++实时实现           |
+| Self-Driving Cars with Duckietown MOOC                                    | ETH Zurich Duckietown硬件MOOC，AI机器人自主决策，免费硬件教程        |
+| AI for Autonomous Vehicles and Robotics                                    | 密歇根大学AI在自驾车中的应用，含Kalman滤波和决策，边缘计算扩展       |
+| Self-Driving Car Specialization Course                                    | Packt自驾车工程专项，ROS/Gazebo模拟，Jetbot C++控制                  |
+| The Complete Self-Driving Car Course - Applied Deep Learning              | 深度学习计算机视觉机器学习构建自主车，Python但易转C++                |
+| Autonomous Aerospace Systems                                              | 自驾飞行器软件工程，路径规划/传感器融合，适用于自驾车                |
+
     
 ### 书籍
-| 书名                                      | 作者                                      | 简介                              |
+| 书籍名称                                      | 作者                                      | 简介                              |
 |------------------------------------------|-------------------------------------------|-----------------------------------|
 | 无人驾驶车辆系统概论（第2版）            | Rahul Kala                               | 1000+页自动驾驶全栈教材 |
 | 自动驾驶技术系列·决策与规划              | 清华大学智能产业研究院（AIR团队）        | 国内最全面的规划算法书 |
