@@ -1,6 +1,6 @@
 # Awesome C++ Autonomous Driving
 
-[中文](/Awesome-CPP-Autonomous-Driving/README.md) | **English**
+[中文](https://github.com/0voice/Awesome-CPP-Autonomous-Driving/blob/main/README.md) | **English**
 
 > **Core Positioning:** A curated collection focused on **high-performance C++**, **production-grade engineering**, and **career & interview preparation** in autonomous driving
 
