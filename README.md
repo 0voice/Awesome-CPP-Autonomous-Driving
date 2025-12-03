@@ -383,7 +383,7 @@
 - [PETRv2](https://github.com/megvii-research/PETR)  
   纯视觉3D目标检测与Occupancy预测
 
-- [QCNet](https://github.com/tianjinjiao/QCNet)  
+- [QCNet](https://github.com/ZikangZhou/QCNet)  
   基于查询的交互式运动预测模型
 
 - [HiVT](https://github.com/ZikangZhou/HiVT)  
@@ -392,10 +392,10 @@
 - [PlanT](https://github.com/autonomousvision/plant)  
   支持语言指令与轨迹联合生成的规划模型
 
-- [Drive-WM](https://github.com/cpacker/Drive-WM)  
+- [Drive-WM](https://github.com/BraveGroup/Drive-WM)  
   基于世界模型的自动驾驶规划框架
 
-- [WorldModel-Series](https://github.com/OpenDriveLab/WorldModel)  
+- [WorldModel-Series](https://github.com/LMD0311/Awesome-World-Model)  
   自动驾驶世界模型系列（DriveDreamer、GAIA-1等）
 
 - [Donkey Car](https://github.com/autorope/donkeycar)  
