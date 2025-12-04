@@ -1,7 +1,20 @@
+<div align="center">
+    
 #  C++ 自动驾驶资源库
- **中文**  |  [English](README.en.md)
-> **核心定位：** 这是一个专注于 **高性能 C++** 、**工程化落地** 和 **面试求职** 的自动驾驶资源精选集 🚗
+<p align="center">
+  <img src="https://img.shields.io/github/stars/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Stars&color=FFCA28&logo=star&labelColor=000" alt="stars" />
+  <img src="https://img.shields.io/github/forks/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Forks&color=ff6b6b" alt="forks" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F0voice%2FAwesome-CPP-Autonomous-Driving&label=Visitors&countColor=%2327ae60&style=flat-square" alt="visitors" />
+  <img src="https://img.shields.io/github/last-commit/0voice/Awesome-CPP-Autonomous-Driving?style=flat-square&label=Updated&color=blueviolet" alt="commit" />
+  <img src="https://img.shields.io/badge/C%2B%2B-14%2F17%2F20-blue?logo=c%2B%2B" alt="cpp" />
+  <img src="https://img.shields.io/badge/Autonomous_Driving-Production_Grade-ff6f61" alt="ad" />
+</p>
+ 
+ **中文**  |  [English](README.en.md) 
 
+
+**核心定位：** 这是一个专注于 **高性能 C++** 、**工程化落地** 和 **面试求职** 的自动驾驶资源精选集 🚗
+</div>
 
 ## 📖 目录
 - [🗺️ 学习路线图](#%EF%B8%8F-学习路线图)
