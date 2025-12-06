@@ -749,8 +749,9 @@
 - **元戎启行** - 投递链接：https://app.mokahr.com/campus-recruitment/deeproute/145894#/home
 - **零跑汽车** - 投递链接：https://leapmotor.zhiye.com/campus
 - **地平线** - 投递链接：https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html
+- **小马智行** - 投递链接：https://campus.pony.ai/
 - **小鹏汽车** - 投递链接：https://xiaopeng.jobs.feishu.cn/campus
-- **百度Apollo** - 投递链接：https://talent.baidu.com/jobs/
+- **百度** - 投递链接：https://talent.baidu.com/jobs/
 - **比亚迪** - 投递链接：https://job.byd.com
 - **轻舟智航** - 投递链接：https://www.qcraft.ai/careers
 - **蔚来汽车** - 投递链接：https://nio.jobs.feishu.cn/campus
@@ -763,8 +764,14 @@
 - **Momenta** - 投递链接：https://momenta.jobs.feishu.cn/talent
 - **鉴智机器人** - 投递链接：https://phigentai.jobs.feishu.cn/index
 - **奇瑞汽车**- 投递链接： https://chery1.zhiye.com/
-
-
+- **长安汽车**- 投递链接：https://changan.zhiye.com/
+- **北汽福田**- 投递链接：https://futurefoton.zhiye.com/
+- **英伟达**- 投递链接： https://nvidia.eightfold.ai/careers
+- **友道智途**- 投递链接：http://www.utopilot.ai/joinus/list-5.html
+- **中科创达** - 投递链接：https://www.thundersoft.com/join-us/
+- **奔驰**- 投递链接：https://career.mercedes-benz.com.cn/recruiting/company/13746/job-list?aj_source=career_website&aj_code=career_website_pc
+- **宝马** - 投递链接：https://www.bmwgroup.jobs/cn/en.html
+- **滴滴** - 投递链接： https://talent.didiglobal.com/social/list/1
 
 ## 🤝 社区与贡献
 
