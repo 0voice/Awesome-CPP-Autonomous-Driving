@@ -975,6 +975,7 @@
 - [吉利汽车](https://careers.geelytech.com/)
 - [东风汽车](https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/index.html#/)
 - [中国一汽](https://faw-zhaopin.hotjob.cn/)
+- [智加科技](https://app.mokahr.com/social-recruitment/plus/69931#/)
 
 ## 🤝 社区与贡献
 
